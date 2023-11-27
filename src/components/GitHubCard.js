@@ -11,7 +11,7 @@ function GitHubCard() {
         <Card.Body>
             <Card.Title>J Yang</Card.Title>
             <Card.Text>
-            I enjoy basketball and working out
+            I enjoy basketball and working outt
             </Card.Text>
         </Card.Body>
         </Card>
